@@ -1,0 +1,8 @@
+{
+  "version": 21,
+  "apk": "https://github.com/Pinologic/faro-patagonico-app/raw/main/produccion/faro-patagonico.apk?v=21",
+  "web": "https://github.com/Pinologic/faro-patagonico-app/raw/main/produccion/faro-patagonico-web.zip?v=21",
+  "checksum": "ed8addc785b20de1488b50444250b2e357863008a53681415bdbfc7f2e0a64d5",
+  "minApk": 17,
+  "publicada": "2026-10-26T00:55:19.784Z"
+}
