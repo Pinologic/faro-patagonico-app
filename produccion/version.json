@@ -1,8 +1,8 @@
 {
-  "version": 22,
-  "apk": "https://github.com/Pinologic/faro-patagonico-app/raw/main/produccion/faro-patagonico.apk?v=22",
-  "web": "https://github.com/Pinologic/faro-patagonico-app/raw/main/produccion/faro-patagonico-web.zip?v=22",
-  "checksum": "82b0b70a950b700c8a3d0fdec7450eb8968e4b0bbdae7ea58483927548e8210a",
+  "version": 24,
+  "apk": "https://github.com/Pinologic/faro-patagonico-app/raw/main/produccion/faro-patagonico.apk?v=24",
+  "web": "https://github.com/Pinologic/faro-patagonico-app/raw/main/produccion/faro-patagonico-web.zip?v=24",
+  "checksum": "e23f6b1eaf5d5788a5a3fa77a9b803fba5169cfce94a71a483c7db59b58dfcfe",
   "minApk": 17,
-  "publicada": "2026-10-26T01:11:56.958Z"
+  "publicada": "2026-10-27T18:18:39.912Z"
 }
